@@ -1,0 +1,72 @@
+{
+  "0": {
+    "status": "attended",
+    "member": {
+      "id": 1,
+      "name": "Benjamin Blade",
+      "photo": {
+        "thumb": "http:\/\/example.com/image/example123.jpeg"
+      }
+    },
+    "rsvp": {
+      "response": "yes",
+      "guests": 0
+    }
+  },
+  "1": {
+    "status": "attended",
+    "member": {
+      "id": 2,
+      "name": "Kurtis Kleiner",
+      "photo": {
+        "thumb": "http:\/\/example.com/image/example123.jpeg"
+      }
+    },
+    "rsvp": {
+      "response": "yes",
+      "guests": 0
+    }
+  },
+  "2": {
+    "status": "attended",
+    "member": {
+      "id": 3,
+      "name": "Clinton Cicero",
+      "photo": {
+        "thumb": "http:\/\/example.com/image/example123.jpeg"
+      }
+    },
+    "rsvp": {
+      "response": "yes",
+      "guests": 0
+    }
+  },
+  "3": {
+    "status": "attended",
+    "member": {
+      "id": 4,
+      "name": "Marybelle Mata",
+      "photo": {
+        "thumb": "http:\/\/example.com/image/example123.jpeg"
+      }
+    },
+    "rsvp": {
+      "response": "yes",
+      "guests": 0
+    }
+  },
+  "4": {
+    "status": "attended",
+    "member": {
+      "id": 5,
+      "name": "Isobel Izzo",
+      "photo": {
+        "thumb": "http:\/\/example.com/image/example123.jpeg"
+      }
+    },
+    "rsvp": {
+      "response": "yes",
+      "guests": 0
+    }
+  }
+}

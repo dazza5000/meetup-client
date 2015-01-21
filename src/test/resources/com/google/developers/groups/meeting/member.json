@@ -1,0 +1,83 @@
+{
+  "birthday": {
+    "month": 6,
+    "year": 1978,
+    "day": 16
+  },
+  "lon": -71.099998474121,
+  "hometown": "Anytown",
+  "status": "active",
+  "link": "http:\/\/www.meetup.com\/members\/3426",
+  "state": "MA",
+  "self": {
+    "common": {
+      
+    }
+  },
+  "photo": {
+    "photo_id": 12345,
+    "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+    "photo_link": "http:\/\/example.com/image/example123.jpeg",
+    "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+  },
+  "lang": "en_US",
+  "country": "us",
+  "city": "Somerville",
+  "id": 98989898,
+  "visited": 1420203372000,
+  "topics": [
+    {
+      "id": 20346,
+      "urlkey": "android-developers",
+      "name": "Android Development"
+    },
+    {
+      "id": 6490,
+      "urlkey": "google",
+      "name": "Google"
+    },
+    {
+      "id": 76871,
+      "urlkey": "google-chrome",
+      "name": "Google Chrome"
+    },
+    {
+      "id": 189,
+      "urlkey": "java",
+      "name": "Java"
+    },
+    {
+      "id": 17627,
+      "urlkey": "programming",
+      "name": "Programming"
+    },
+    {
+      "id": 15292,
+      "urlkey": "secularism",
+      "name": "Secularism"
+    },
+    {
+      "id": 871,
+      "urlkey": "skeptics",
+      "name": "Skeptics"
+    },
+    {
+      "id": 21441,
+      "urlkey": "mobile-development",
+      "name": "Mobile Development"
+    },
+    {
+      "id": 15083,
+      "urlkey": "intellectual-discussion",
+      "name": "Intellectual Discussion"
+    }
+  ],
+  "joined": 1024412244000,
+  "name": "Maurice Member",
+  "other_services": {
+    "twitter": {
+      "identifier": "@TwitterHandle"
+    }
+  },
+  "lat": 42.380001068115
+}

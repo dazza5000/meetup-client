@@ -1,0 +1,48 @@
+{
+  "response": "no",
+  "member": {
+    "name": "Meetup Member",
+    "member_id": 12345678
+  },
+  "member_photo": {
+    "id": 8654321,
+    "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+    "photo_link": "http:\/\/example.com/image/example123.jpeg",
+    "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+  },
+  "created": 1416946659000,
+  "event": {
+    "id": "1000000",
+    "time": 1418684400000,
+    "event_url": "http:\/\/www.meetup.com\/example-group\/events\/1000000\/",
+    "name": "Example Event"
+  },
+  "tallies": {
+    "yes": 80,
+    "maybe": 5,
+    "no": 11,
+    "waitlist": 15
+  },
+  "mtime": 1418678045000,
+  "guests": 0,
+  "rsvp_id": 18181818,
+  "venue": {
+    "id": 909009,
+    "lon": -71.087425,
+    "repinned": false,
+    "name": "Midway Mall",
+    "state": "MA",
+    "address_1": "100 Main Street",
+    "lat": 42.362591,
+    "city": "Anytown",
+    "country": "us"
+  },
+  "group": {
+    "id": 10000,
+    "created": 1420206538857,
+    "group_lat": 42.380001068115,
+    "group_lon": -71.129997253418,
+    "join_mode": "open",
+    "urlname": "example-group"
+  }
+}

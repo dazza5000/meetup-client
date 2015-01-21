@@ -1,0 +1,22 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+
+// Install local with './gradlew install'
+
+dependencies {
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+    testCompile 'junit:junit:4.12'
+}
+
+sourceCompatibility = JavaVersion.VERSION_1_7
+targetCompatibility = JavaVersion.VERSION_1_7
+
+version = '1.0-SNAPSHOT'
+group = 'com.bitgrind.meetup'
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+

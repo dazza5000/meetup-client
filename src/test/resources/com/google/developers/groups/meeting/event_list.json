@@ -1,0 +1,58 @@
+{
+   "results":[  
+      {  
+         "status":"draft",
+         "visibility":"public",
+         "maybe_rsvp_count":0,
+         "venue":{
+            "id":23546169,
+            "lat":42.380001068115234,
+            "lon":-71.12999725341797,
+            "repinned":false,
+            "name":"Example Event",
+            "state":"MA",
+            "address_1":"123 Main St.",
+            "city":"Cambridge",
+            "country":"us"
+         },
+         "id":"100000",
+         "utc_offset":-18000000,
+         "duration":81000000,
+         "time":1420846200000,
+         "waitlist_count":0,
+         "announced":false,
+         "updated":1420034879000,
+         "yes_rsvp_count":2,
+         "created":1419981816000,
+         "event_url":"http://www.meetup.com/example-group/events/100000/",
+         "description":"Example Event Description",
+         "name":"Example Event Name",
+         "headcount":0,
+         "group":{  
+            "id":1000000,
+            "created":1294069005000,
+            "group_lat":42.380001068115234,
+            "name":"Example Group",
+            "group_lon":-71.12999725341797,
+            "join_mode":"open",
+            "urlname":"example-group",
+            "who":"Members"
+         }
+      }
+   ],
+   "meta":{  
+      "lon":"",
+      "count":1,
+      "signed_url":"http://api.meetup.com/2/events?status=draft%2Cupcoming&order=time&limited_events=False&group_urlname=example-group&desc=false&offset=0&photo-host=public&format=json&page=20&fields=&sig_id=3426&sig=zzzzzzzzzzzzzzz",
+      "link":"https://api.meetup.com/2/events",
+      "next":"",
+      "total_count":1,
+      "url":"https://api.meetup.com/2/events?status=draft%2Cupcoming&order=time&limited_events=False&group_urlname=example-group&desc=false&offset=0&photo-host=public&format=json&page=20&fields=&sign=True",
+      "id":"",
+      "title":"Meetup Events v2",
+      "updated":1420034879000,
+      "description":"Access Meetup events using a group, member, or event id. Events in private groups are available only to authenticated members of those groups. To search events by topic or location, see [Open Events](/meetup_api/docs/2/open_events).",
+      "method":"Events",
+      "lat":""
+   }
+}

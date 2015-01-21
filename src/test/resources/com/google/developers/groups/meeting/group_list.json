@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "lon": -71.129997253418,
+      "visibility": "public",
+      "organizer": {
+        "name": "Organgizer Name",
+        "member_id": 55541
+      },
+      "link": "http:\/\/www.meetup.com\/example-group\/",
+      "state": "MA",
+      "join_mode": "open",
+      "who": "Members",
+      "country": "US",
+      "city": "Cambridge",
+      "utc_offset": -18000000,
+      "id": 1757913,
+      "category": {
+        "id": 34,
+        "name": "tech",
+        "shortname": "tech"
+      },
+      "topics": [
+        {
+          "id": 189,
+          "urlkey": "java",
+          "name": "Java"
+        },
+        {
+          "id": 6490,
+          "urlkey": "google",
+          "name": "Google"
+        },
+        {
+          "id": 7029,
+          "urlkey": "javascript",
+          "name": "JavaScript"
+        },
+        {
+          "id": 10102,
+          "urlkey": "internetpro",
+          "name": "Internet Professionals"
+        },
+        {
+          "id": 10209,
+          "urlkey": "web",
+          "name": "Web Technology"
+        },
+        {
+          "id": 15167,
+          "urlkey": "cloud-computing",
+          "name": "Cloud Computing"
+        },
+        {
+          "id": 17627,
+          "urlkey": "programming",
+          "name": "Programming"
+        },
+        {
+          "id": 19724,
+          "urlkey": "android",
+          "name": "Android"
+        },
+        {
+          "id": 20346,
+          "urlkey": "android-developers",
+          "name": "Android Development"
+        },
+        {
+          "id": 21441,
+          "urlkey": "mobile-development",
+          "name": "Mobile Development"
+        },
+        {
+          "id": 24001,
+          "urlkey": "gtug",
+          "name": "GTUG"
+        },
+        {
+          "id": 76871,
+          "urlkey": "google-chrome",
+          "name": "Google Chrome"
+        },
+        {
+          "id": 76872,
+          "urlkey": "chrome-os",
+          "name": "Chrome OS"
+        },
+        {
+          "id": 91459,
+          "urlkey": "google-maps",
+          "name": "Google Maps"
+        }
+      ],
+      "timezone": "US\/Eastern",
+      "group_photo": {
+        "id": 322158642,
+        "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+        "photo_link": "http:\/\/example.com/image/example123.jpeg",
+        "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+      },
+      "created": 1294069005000,
+      "description": "<p>Example Group Description<\/p>",
+      "name": "Example Group",
+      "rating": 4.47,
+      "urlname": "example-group",
+      "lat": 42.380001068115,
+      "members": 238
+    }
+  ],
+  "meta": {
+    "lon": "",
+    "count": 1,
+    "link": "http:\/\/api.meetup.com\/2\/groups",
+    "next": "",
+    "total_count": 1,
+    "url": "http:\/\/api.meetup.com\/2\/groups?key=xxxxxxxxxxxxxxxxxxxxxxxx&radius=25.0&order=id&group_urlname=example-group&desc=false&offset=0&format=json&page=200&fields=",
+    "id": "",
+    "title": "Meetup Groups v2",
+    "updated": 1419981068000,
+    "description": "",
+    "method": "Groups",
+    "lat": ""
+  }
+}

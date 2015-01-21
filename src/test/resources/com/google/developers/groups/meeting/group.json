@@ -1,0 +1,59 @@
+{
+  "id": 1000000,
+  "name": "Example Group",
+  "link": "http:\/\/www.meetup.com\/example-group\/",
+  "urlname": "example-group",
+  "description": "<p><span><strongExample Group<\/strong> description.<\/p>",
+  "created": 1294069005000,
+  "city": "Cambridge",
+  "country": "US",
+  "state": "MA",
+  "join_mode": "open",
+  "visibility": "public",
+  "lat": 42.380001068115,
+  "lon": -71.129997253418,
+  "members": 184,
+  "who": "Members",
+  "group_photo": {
+    "id": 322158642,
+    "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+    "photo_link": "http:\/\/example.com/image/example123.jpeg",
+    "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+  },
+  "timezone": "US\/Eastern",
+  "next_event": {
+    "id": "100001",
+    "name": "Upcoming Example Event"
+  },
+  "category": {
+    "id": 34,
+    "name": "Tech",
+    "shortname": "Tech"
+  },
+  "photos": [
+    {
+        "id": 3214567,
+        "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+        "photo_link": "http:\/\/example.com/image/example123.jpeg",
+        "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+    },
+    {
+        "id": 3214567,
+        "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+        "photo_link": "http:\/\/example.com/image/example123.jpeg",
+        "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+    },
+    {
+        "id": 3214567,
+        "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+        "photo_link": "http:\/\/example.com/image/example123.jpeg",
+        "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+    },
+    {
+        "id": 3214567,
+        "highres_link": "http:\/\/example.com/image/example123_highres.jpeg",
+        "photo_link": "http:\/\/example.com/image/example123.jpeg",
+        "thumb_link": "http:\/\/example.com/image/example123_thumb.jpeg"
+    }
+  ]
+}
